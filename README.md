@@ -28,6 +28,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NicoAlvarado10/NicoAlvarado10/output/snake.svg" alt="Snake animation" />
-
-###
