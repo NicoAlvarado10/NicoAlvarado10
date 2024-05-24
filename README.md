@@ -1,4 +1,4 @@
-<h1 align="left">Mi nombre es Nicolas, soy un Desarrollador Frontend, .</h1>
+<h1 align="left">Mi nombre es Nicolas, soy un Desarrollador Frontend,.</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente aprendiendo... <h1> JavaScript <h1/><br>🎯 Objetivos: Aprender <h2>React <h2/></p>
+<p align="left">📚 Actualmente aprendiendo... JavaScript <br>🎯 Objetivos: Aprender React </p>
 
 ###
 
