@@ -1,8 +1,8 @@
-<h1 align="left">Mi nombre es Nicolas, soy un Desarrollador Frontend,.</h1>
+<h1 align="left">Mi nombre es Nicolás, soy un Desarrollador Frontend,.</h1>
 
 ###
 
-<p align="left">Argentina, Cba.</p>
+<p align="left">Actualmente viviendo en... Argentina, Cba.</p>
 
 ###
 
