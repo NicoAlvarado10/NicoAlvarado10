@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg " alt="react" height="40" width="40"/>
   </a>
   <a href="https://https:astro.build/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/373446/astro.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="firebase" width="40" height="40"/>
 </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
