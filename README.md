@@ -48,9 +48,6 @@
   
 
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoalvarado10&show_icons=true&locale=es&layout=compact" alt="nicoalvarado10" />
-</p>
 
 
 
